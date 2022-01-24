@@ -7,7 +7,9 @@
 
 ![Cézar's GitHub stats](https://github-readme-stats.vercel.app/api?username=cezarBZ&show_icons=true&theme=dracula)
 
-### Tecnologias que utilizo
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cezarBZ)](https://github.com/anuraghazra/github-readme-stats)
+
+### Tecnologias que utilizo com mais frequência
 
 <div style="display: inline-block"><br/>
   <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
